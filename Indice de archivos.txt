@@ -1,0 +1,26 @@
+=========================================================================================================================================================================================================================
+		INDICE DE ARCHIVOS		
+==========================================================================================================================================================================================================================
+	Informe(Documento WORD):
+	En este documento esta recogido el trabajo en si con todos los comentarios, capturas, fotos...
+	1-Circuito:
+		En esta carpeta se encuentra todo lo relativo al dise񯠧rᦩco del circuito:
+		Circuito en formatos PDF, PNG y HTML porque lo dise񡭯s en una web llamada Draw.io y
+		los nombres de los cables no se aprecian muy bien.
+	2-Diagramas y mapas:
+		Aqui se adjuntan las fotos del diagrama de transici󮬠tabla de transiciones y mapas de 
+		karnaugh hechos a mano, y el diagrama de transici󮠥n formato PNG y HTML ya pasado a 
+		ordenador( con Draw.io).
+	3-C󤩧o:
+		En esta carpeta esta guardado el codigo fuente:
+			+ c󤩧o fuente completo:.................codigo.v        
+			+ c󤩧o del m󤵬o del biestable JK:.....biestableJK.v   
+			+ c󤩧o del m󤵬o del contador:.........contador.v      
+			+ c󤩧o del m󤵬o de testeo:............test.v          
+	4-Cronogramas:
+		Aqui se adjuntan los cronogramas en formato DMP; igualmente dejarmos puesto en el fuente
+		el codigo necesario para que se generen cuando se ejecute dicho codigo.
+		Tambien se adjuntaran las capturas del funcionamiento del codigo y los cronogramas.
+=========================================================================================================================================================================================================================
+       Pedro Sᮣhez Gutierrez | Francisco Pinto Santos | Equipo petabiters grupo A3
+==========================================================================================================================================================================================================================
